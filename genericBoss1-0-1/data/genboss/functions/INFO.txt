@@ -1,0 +1,53 @@
+# Generic Boss Functions
+# genericBoss1-0-0
+# Author: Noob
+# Created: 2-24-2020
+# Updated: 2-24-2020
+
+# This file contains any relevant variable information used within this boss's datapack.
+# ALL of which should be properly replaced/filled in with desired values.
+# This should be done within EVERY function in the datapack.
+# "Change All Occurences" is extremely handy here.
+
+# Boss Name:
+#   Title = -BNAME-
+
+# Boss Tag:
+#	Tag = -BTAG-
+
+# Minion Tags:
+#	Tag1 = -MTAG1-
+#	Tag2 = -MTAG2-
+#	...  
+
+# Fighters Identifier:
+#   Objective = -BTAG-fight
+
+# Boss Spawn: 
+#	X= -BTAG-SPAWNX
+#	Y= -BTAG-SPAWNY
+#	Z= -BTAG-SPAWNZ
+
+# Lobby Location:
+#	X= LOBBYX
+#	Y= LOBBYY
+#	Z= LOBBYZ
+
+# Player Enter:
+#	X= ENTERX
+#	Y= ENTERY
+#	Z= ENTERZ
+#	Xrotate= ENTERXR
+#	Yrotate= ENTERYR
+
+# Spawn Caps:
+#	-MTAG1- = -MTAG1-CAP
+#	-MTAG2- = -MTAG2-CAP
+
+# Ability Objectives:
+#   abil-1 = -BTAG-abil-1
+#   abil-2 = -BTAG-abil-2
+#   abil-3 = -BTAG-abil-3
+#   abil-4 = -BTAG-abil-4
+#   abil-5 = -BTAG-abil-5
+#   ...
